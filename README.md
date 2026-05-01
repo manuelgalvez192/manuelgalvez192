@@ -66,12 +66,3 @@ networking, and 3D graphics. Two projects graded **above expectations (125%)**.
 > *"Our model has proven that students become industry-ready software engineers
 > within two years."* — Codam
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelgalvez192&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgalvez192&layout=compact&hide_border=true&theme=default)
-
-</div>
