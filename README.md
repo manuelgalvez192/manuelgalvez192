@@ -1,10 +1,30 @@
-# 💫 About Me:
-🌟 Header<br>Name: Manuel Galvez<br>Location: Netherlands <br>Professional Title: Software Developer and Master's Student in Game Programming<br><br>💡 About Me<br>Hello! I'm Manuel, an enthusiastic software developer with a special interest<br>in games and software development. I'm currently working on my own projects and<br>studying at Codam College in Amsterdam. I love exploring new technologies and challenges<br>in the development world.<br><br>🛠 Technical Skills<br>Programming Languages: C, C++, C#, Java, JavaScript, HTML5.<br>Tools and Technologies: Unity, Unreal Engine, Android Development, Desktop Application Programming.<br>Methodologies: Agile, Project Management, Code Cleanup.<br><br>🌟 Highlighted Projects<br>FriendlyTheFire: A Unity game focusing on time management and collection.<br>SpaceInvadersSFML: A modern take on the classic Space Invader game, developed in C++ using SFML.<br>TFG_MobileApp: My degree project, an Android mobile app for business management.<br>TFM_Videogame: My master's thesis, a Beat 'em up style game in Unity (in development).<br><br>📈 Contributions and Activity<br>In addition to my project work, I've been gaining valuable industry experience as an<br>intern. I worked at Inetum in the area of DevOps, contributing to automation and<br>continuous integration processes. Also, I've been part of The Core School University,<br>working in their Virtual Reality lab, where I deepened my skills in immersive technology<br>and VR application development.<br><br>📫 Contact and Social Media<br>LinkedIn: https://www.linkedin.com/in/manuel-galvez-gomez/<br>Email: manuelgalvez192@gmail.com<br><br>🤝 Invitation to Collaborate<br>I'm open to collaboration and employment opportunities. If you are interested<br>in working with me or have an exciting project in mind, don't hesitate to contact me!
+## Manuel Galvez — Junior Software Developer
 
+Software developer based in Amsterdam area, currently at Codam Coding College 
+(42 Network). Strong background in systems programming (C/C++) with experience 
+in OOP, concurrent programming, networking, and 3D graphics.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manuelgalvez192&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manuelgalvez192&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgalvez192&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠 Tech Stack
+**Languages:** C, C++, C#, Java, JavaScript, Shell, SQL  
+**Tools:** Git, Linux, Docker, CI/CD, Makefile  
+**Frameworks:** Unity, Unreal Engine, SFML, Android SDK  
+**Concepts:** Design Patterns, Clean Architecture, Algorithms, Concurrency  
+
+## 📌 Pinned Projects
+
+**[Minishell](link)** — POSIX shell in C from scratch. Piping, redirections, 
+signals, environment variables.
+
+**[cub3d](link)** — 3D raycasting engine in C. DDA algorithm, texture mapping, 
+real-time rendering. Graded 110% at Codam.
+
+**[Philosophers](link)** — Concurrent programming with threads and mutexes. 
+Classic dining philosophers problem.
+
+**[SpaceInvaders SFML](link)** — C++ game using SFML. State machine, OOP patterns.
+
+**[TFM Videogame](link)** — Beat 'em up in Unity/C#. Behaviour Tree AI, 
+animation state machines.
+
+## 📫 Contact
+LinkedIn • manuelgalvez192@gmail.com
