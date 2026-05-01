@@ -46,14 +46,14 @@ Design Patterns · Clean Architecture · Algorithms · Concurrency · Networking
 
 ## 📌 Projects
 
-| Project | Description | Tech | Grade |
+| Project | Description | Tech |
 |---|---|---|---|
-| [**Minishell**](https://github.com/manuelgalvez192) | POSIX shell from scratch — piping, redirections, signals | C, Unix | 100% |
-| [**cub3d**](https://github.com/manuelgalvez192) | 3D raycasting engine, DDA algorithm, texture mapping | C, Graphics | 110% ⭐ |
-| [**Philosophers**](https://github.com/manuelgalvez192) | Concurrent dining philosophers — threads & mutexes | C, Concurrency | 100% |
-| [**SpaceInvaders SFML**](https://github.com/manuelgalvez192) | State machine, OOP patterns, entity management | C++, SFML | — |
-| [**Beat 'em Up**](https://manuelgg192.itch.io) | Behaviour Tree AI, animation state machines | Unity, C# | — |
-| [**Business App**](https://github.com/manuelgalvez192) | Android app — MVC architecture, SQLite CRUD | Java, Android | — |
+| [**Codam_Cusus**](https://github.com/manuelgalvez192/Codam_Cursus) | Set of cursus 42 projects | Algorithms, OOP, architecture | C, C++, Graphic Library |
+| [**Minishell**](https://github.com/manuelgalvez192/minishell) | POSIX shell from scratch — piping, redirections, signals | C, Unix |
+| [**cub3d**](https://github.com/manuelgalvez192/Cube3D) | 3D raycasting engine, DDA algorithm, texture mapping | C, Graphics |
+| [**SpaceInvaders SFML**](https://github.com/manuelgalvez192/SpaceInvadersSFML) | State machine, OOP patterns, entity management | C++, SFML |
+| [**Master's_Thesis**](https://github.com/manuelgalvez192/Master-s_Thesis_Videogame) | Behaviour Tree AI, animation state machines | Unity, C# |
+| [**Capstone_Project**](https://github.com/manuelgalvez192/Capstone_Project_MobileApp) | Android app — MVC architecture, SQLite CRUD | Java, Android |
 
 ## 🎓 Codam Coding College (42 Network)
 
