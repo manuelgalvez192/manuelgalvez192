@@ -47,7 +47,7 @@ Design Patterns · Clean Architecture · Algorithms · Concurrency · Networking
 ## 📌 Projects
 
 | Project | Description | Tech |
-|---|---|---|---|
+|---|---|---|
 | [**Codam_Cusus**](https://github.com/manuelgalvez192/Codam_Cursus) | Set of cursus 42 projects | Algorithms, OOP, architecture | C, C++, Graphic Library |
 | [**Minishell**](https://github.com/manuelgalvez192/minishell) | POSIX shell from scratch — piping, redirections, signals | C, Unix |
 | [**cub3d**](https://github.com/manuelgalvez192/Cube3D) | 3D raycasting engine, DDA algorithm, texture mapping | C, Graphics |
